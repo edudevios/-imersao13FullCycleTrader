@@ -4,3 +4,4 @@ https://imersao.fullcycle.com.br/aula/tenha-um-dos-perfis-mais-desejados-do-merc
 Estudos Fullcycle, plataforma de trader
 ## Create Project
 go mod init github.com/edudevios/-imersao13FullCycleTrader/go
+1:00:21
